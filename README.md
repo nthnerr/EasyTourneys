@@ -1,6 +1,6 @@
 ---
 
-# Anonymous Submission Discord Bot
+# EasyTourneys: Anonymous Submissions
 
 This is a Discord bot designed to handle anonymous submissions, validate links, and manage data efficiently. It also includes helpful commands for managing and exporting submissions.
 
