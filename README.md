@@ -23,8 +23,8 @@
 ## How to Use
 
 1. **!submit**: Users type this in the server to receive submission instructions privately via DM.
-2. **!link <url>**: Users send their entry link to the bot via DM to receive their **Unique Code**.
-3. **!checkuser <code>**: Organizers use this in the server to find the Discord user associated with a specific code.
+2. **!link [url]**: Users send their entry link to the bot via DM to receive their **Unique Code**.
+3. **!checkuser [code]**: Organizers use this in the server to find the Discord user associated with a specific code.
 4. **!export**: Instantly generates and uploads an `.xlsx` file containing all submission data.
 
 ## Technical Specs
